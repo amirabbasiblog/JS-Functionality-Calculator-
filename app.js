@@ -7,7 +7,9 @@
 //     getinpfield.value = ""
 // }
 
-// *************************
+//_____________________________________________________________
+
+// Chapter 50: Setting field Values
 
 // var getText = prompt("Enter a text")
 
